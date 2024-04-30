@@ -1,3 +1,9 @@
+# lesson 1 - branch
+  <li>Functional component</li>
+  <li>Class Component</li>
+  <li>Props</li>
+  <li>JSX-syntax</li>
+  
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
