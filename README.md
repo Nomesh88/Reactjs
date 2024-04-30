@@ -3,6 +3,7 @@
   <li>Class Component</li>
   <li>Props</li>
   <li>JSX-syntax</li>
+Message.js - contains state hook functionality for functional component
   
 # Getting Started with Create React App
 
